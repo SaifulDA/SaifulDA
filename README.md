@@ -1,32 +1,45 @@
-# Halo Semuanya! 👋
+# Hello Everyone! 👋
 
-Saya Saifuddaulah Alfarabi, seorang pengembang perangkat lunak dengan minat khusus dalam pengembangan web dan solusi berbasis cloud. Saya percaya bahwa teknologi memiliki potensi untuk mengubah dunia dan saya berkomitmen untuk berkontribusi pada perubahan tersebut.
 
-## ⚡ Tentang Saya
+I'm Saifuddaulah Alfarabi, a software developer with a special interest in web development and cloud-based solutions. I believe that technology has the potential to change the world and I am committed to contributing to that change.
 
-- 🎓 Saya Mahasiswa dari Universitas Bina Sarana Informatika.
-- 💼 Saat ini saya bekerja di Bangkit Academy 2023 By Google, GoTo, dan Traveloka sebagai Cloud Computing Cohort.
-- 🌱 Saya selalu belajar dan terus meningkatkan keterampilan saya di bidang Web dan Cloud.
 
-## 🔧 Keterampilan
+## ⚡ About Me
 
-- **Bahasa Pemrograman:** Html, CSS, JavaScript, Php, Flutter.
+
+- 🎓 I am a student of Bina Sarana Informatika University.
+- 💼 I am currently working at Bangkit Academy 2023 By Google, GoTo, and Traveloka as a Cloud Computing Cohort.
+- 🌱 I always learn and keep improving my skills in Web and Cloud.
+
+
+## 🔧 Skills
+
+
+- **Programming Language:** Html, CSS, JavaScript, Php, Flutter.
 - **Framework:** Bootstrap, NodeJs, Codeigniter
 - **Cloud Computing:** Google Cloud Platform
 - **Database:** MySQL
 
-## 🚀 Proyek Terbaru
 
-- [FitFans]: Proyek Capstone Bangkit Academy [FitFans](https://github.com/Capstone-CH2-PS196/FitFans).
+## 🚀 Recent Projects
 
-## 🌐 Temukan Saya
+
+- FitFans: Project Capstone Bangkit Academy [FitFans](https://github.com/Capstone-CH2-PS196/FitFans).
+
+
+## 🌐 Find Me
+
 
 - [LinkedIn](https://www.linkedin.com/in/saifuddaulah-alfarabi/)
 - [Instagram](https://www.instagram.com/s.d.a.2.4/)
 
 
-## 📫 Hubungi Saya
 
-Jika Anda tertarik berkolaborasi atau hanya ingin berbicara, jangan ragu untuk [mengirimkan email](mailto:saifuldaulah24@gmail.com) kepada saya.
 
-Terima kasih sudah mengunjungi profil saya! ✨
+## 📫 Contact Me
+
+
+If you're interested in collaborating or just want to talk, feel free to [email](mailto:saifuldaulah24@gmail.com) me.
+
+
+Thanks for visiting my profile! ✨
